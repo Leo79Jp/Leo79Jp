@@ -26,12 +26,12 @@
 ***
 ### 🔗 Mis Proyectos
 - <a href="https://leo79jp.github.io/EL-Clasico-Lemon-Pie/">EL Clasico Lemon Pie</a>
-<br/>
-> En este proyecto aprendi el maquetado semantico y a linkear enlases. 
+
+En este proyecto aprendi el maquetado semantico y a linkear enlases. 
 
 - <a href="https://leo79jp.github.io/Curriculum-Vitae-de-Bruce-Wayne/">Curriculum de Bruce Wayne</a>
-<br/>
-> En este proyecto aprendi a trabajar con los diferentes tipos de listas, tambien a ultilizar los "iframe" y agregar iconos en la seccion Footer.
+
+En este proyecto aprendi a trabajar con los diferentes tipos de listas, tambien a ultilizar los "iframe" y agregar iconos en la seccion Footer.
 
 ***
 ### 🔗 Contáctame

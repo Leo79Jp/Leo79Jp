@@ -58,7 +58,7 @@ En este proyecto trabajamos con GRID, me resulto un poco dificil entender como a
 
 
 ### 🔗 Contáctame
-<a href="https://www.linkedin.com/in/leo-parodi-237784313/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Leo%20Parodi-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/leo-parodi/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Leo%20Parodi-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:leojparodi@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-leojparodi@gmail.com-blue?style=flat-square&logo=gmail"></a> 
 
 ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=Leo79Jp&show_icons=true)

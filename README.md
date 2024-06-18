@@ -1,13 +1,14 @@
 <h1>Hola! Me llamo Leo Parodi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 <h2>Soy Estudiante de Diplomatura en Desarrollo Frontend</h2>
 
-<h3>🚀 Acerca de mí</h3>
+### 🚀 Acerca de mí
+
 - Tengo 45 años y soy de Zárate, Provincia de Buenos Aires, Argentina.
 - Soy estudiante de Diplomatura en desarrollo Frontend.
 - Disfruto todo lo referido a la programacion, y el a ver comenzado este curso me a motivado a seguir aprendiendo y capacitarme.
 - Soy una persona creativa que busca siempre mejorar y avanzar en lo tecnologico. 
 
-<h3>🔧 Tecnologías</h3>
+### 🔧 Tecnologías
 
 - 💪 Estas son las tecnologias que manejo!
 
@@ -24,12 +25,12 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
 
-### 🔗 Mis Proyectos
-- <a href="https://leo79jp.github.io/EL-Clasico-Lemon-Pie/">EL Clasico Lemon Pie</a>
+### 🔎 Mis Proyectos
+- <a href="https://leo79jp.github.io/EL-Clasico-Lemon-Pie/">🔗 EL Clasico Lemon Pie</a>
 
 En este proyecto aprendi el maquetado semantico y a linkear enlases. 
 
-- <a href="https://leo79jp.github.io/Curriculum-Vitae-de-Bruce-Wayne/">Curriculum de Bruce Wayne</a>
+- <a href="https://leo79jp.github.io/Curriculum-Vitae-de-Bruce-Wayne/">🔗 Curriculum de Bruce Wayne</a>
 
 En este proyecto aprendi a trabajar con los diferentes tipos de listas, tambien a ultilizar los "iframe" y agregar iconos en la seccion Footer.
 

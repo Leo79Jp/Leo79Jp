@@ -7,7 +7,8 @@
 - Disfruto todo lo referido a la programacion, y el a ver comenzado este curso me a motivado a seguir aprendiendo y capacitarme.
 - Soy una persona creativa que busca siempre mejorar y avanzar en lo tecnologico. 
 
----
+<hr>
+
 ### 🛠 Tecnologías
 - 💪 Estas son las tecnologias que manejo!
 
@@ -23,8 +24,8 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
+<hr>
 
-___
 ### 🔗 Mis Proyectos
 - <a href="https://leo79jp.github.io/EL-Clasico-Lemon-Pie/">EL Clasico Lemon Pie</a>
 
@@ -34,7 +35,8 @@ En este proyecto aprendi el maquetado semantico y a linkear enlases.
 
 En este proyecto aprendi a trabajar con los diferentes tipos de listas, tambien a ultilizar los "iframe" y agregar iconos en la seccion Footer.
 
-***
+<hr>
+
 ### 🔗 Contáctame
 <a href="https://www.linkedin.com/in/leo-parodi-237784313/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Leo%20Parodi-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:leojparodi@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-leojparodi@gmail.com-blue?style=flat-square&logo=gmail"></a> 

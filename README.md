@@ -1,14 +1,14 @@
 <h1>Hola! Me llamo Leo Parodi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 <h2>Soy Estudiante de Diplomatura en Desarrollo Frontend</h2>
 
-### 🚀 Acerca de mí
+<h3>🚀 Acerca de mí</h3>
 - Tengo 45 años y soy de Zárate, Provincia de Buenos Aires, Argentina.
 - Soy estudiante de Diplomatura en desarrollo Frontend.
 - Disfruto todo lo referido a la programacion, y el a ver comenzado este curso me a motivado a seguir aprendiendo y capacitarme.
 - Soy una persona creativa que busca siempre mejorar y avanzar en lo tecnologico. 
 
+<h3>🔧 Tecnologías</h3>
 
-### 🛠 Tecnologías
 - 💪 Estas son las tecnologias que manejo!
 
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)

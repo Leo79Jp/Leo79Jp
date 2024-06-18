@@ -6,7 +6,8 @@
 - Soy estudiante de Diplomatura en desarrollo Frontend.
 - Disfruto todo lo referido a la programacion, y el a ver comenzado este curso me a motivado a seguir aprendiendo y capacitarme.
 - Soy una persona creativa que busca siempre mejorar y avanzar en lo tecnologico. 
-***
+
+---
 ### 🛠 Tecnologías
 - 💪 Estas son las tecnologias que manejo!
 
@@ -23,7 +24,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
 
-***
+___
 ### 🔗 Mis Proyectos
 - <a href="https://leo79jp.github.io/EL-Clasico-Lemon-Pie/">EL Clasico Lemon Pie</a>
 

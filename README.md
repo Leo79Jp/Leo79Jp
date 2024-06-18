@@ -1,12 +1,13 @@
 <h1>Hola! Me llamo Leo Parodi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
-<h2>Soy Estudiante de Diplomatura en Desarrollo Frontend</h2>
+<!-- <h2>Soy Estudiante de Diplomatura en Desarrollo Frontend</h2> -->
 
 ### 🚀 Acerca de mí
 
 - Tengo 45 años y soy de Zárate, Provincia de Buenos Aires, Argentina.
-- Soy estudiante de Diplomatura en desarrollo Frontend.
-- Disfruto todo lo referido a la programacion, y el a ver comenzado este curso me a motivado a seguir aprendiendo y capacitarme.
-- Soy una persona creativa que busca siempre mejorar y avanzar en lo tecnologico. 
+- Soy estudiante de Diplomatura en desarrollo Frontend en la Universidad Nacional tres de Febrero.
+- Disfruto todo lo referido a la programacion, me gusta mucho lo que es codigo y bases de datos.
+- Estoy muy contento de haber comenzado este curso, me motiva a seguir aprendiendo.
+- Los invito a seguir mi progreso y **contactarme!** si les gusta lo que hago!
 
 ### 🔧 Tecnologías
 
@@ -26,13 +27,34 @@
 
 
 ### 🔎 Mis Proyectos
+
 - <a href="https://leo79jp.github.io/EL-Clasico-Lemon-Pie/">🔗 EL Clasico Lemon Pie</a>
 
-En este proyecto aprendi el maquetado semantico y a linkear enlases. 
+En este proyecto aprendi a a trabajar con FIGMA, el maquetado semantico y a linkear enlases
 
 - <a href="https://leo79jp.github.io/Curriculum-Vitae-de-Bruce-Wayne/">🔗 Curriculum de Bruce Wayne</a>
 
 En este proyecto aprendi a trabajar con los diferentes tipos de listas, tambien a ultilizar los "iframe" y agregar iconos en la seccion Footer.
+
+- <a href="https://leo79jp.github.io/Super-Heroes---Formularios/">🔗 Cars Super Heroes con Formularios</a>
+
+En este proyecto aprendi a trabajar con Display Flex, agregar formularios, nav y algo de seudo selectores. Fue un trabajo que me llevo tiempo completarlo y entender como agregar paginas y darles css. 
+
+- <a href="https://leo79jp.github.io/Petshop/">🔗 Petshop</a>
+
+En este proyecto comenzamos a trabajar con la parte responsiva de la pagina, Media Query y mucho flex-box.
+
+- <a href="https://leo79jp.github.io/Ejercicio-Flex/">🔗 Pizza Front</a>
+
+En este proyecto trabajamos con bocetos, flex-box y selectores, estuvo divertido y facil de completar.
+
+ - <a href="https://leo79jp.github.io/Game-Shop/">🔗  Game Shop</a>
+
+En este proyecto estuvo muy bueno trabajarlo porque visualmente es queda genial, usamos flex-box, nav responsivo y agregamos el boton de menu Hamburguesa. 
+
+- <a href="https://leo79jp.github.io/InstaFront/">🔗 InstaFront</a>
+
+En este proyecto trabajamos con GRID, me resulto un poco dificil entender como armar la grilla y que a la vez sea responsivo.
 
 
 ### 🔗 Contáctame

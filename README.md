@@ -1,25 +1,40 @@
 <h1>Hola! Me llamo Leo Parodi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
-<h2>Estudiante de Diplomatura en Desarrollo Frontend</h2>
+<h2>Soy Estudiante de Diplomatura en Desarrollo Frontend</h2>
 
-### Acerca de mí
+### 🚀 Acerca de mí
 - Tengo 45 años y soy de Zárate, Provincia de Buenos Aires, Argentina.
 - Soy estudiante de Diplomatura en desarrollo Frontend.
-- Disfruto todo lo referido con la programacion, y me decidi mis 45 años comenzar a aprender enserio.
+- Disfruto todo lo referido a la programacion, y el a ver comenzado este curso me a motivado a seguir aprendiendo y capacitarme.
 - Soy una persona creativa que busca siempre mejorar y avanzar en lo tecnologico. 
-### Tecnologías
-Manejo estas tecnologias
+***
+### 🛠 Tecnologías
+- 💪 Estas son las tecnologias que manejo!
 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
-  ![github](https://img.shields.io/badge/-Github-333333?style=flat&logo=github)
-  ![php](https://img.shields.io/badge/-php-333333?style=flat&logo=php)
-  ![mysql](https://img.shields.io/badge/-mysql-333333?style=flat&logo=mysql)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+![github](https://img.shields.io/badge/-Github-333333?style=flat&logo=github)
+![php](https://img.shields.io/badge/-php-333333?style=flat&logo=php)
+![mysql](https://img.shields.io/badge/-mysql-333333?style=flat&logo=mysql)
+![bootstrap](https://img.shields.io/badge/-bootstrap-333333?style=flat&logo=bootstrap)
+![tailwindcss](https://img.shields.io/badge/-tailwindcss-333333?style=flat&logo=tailwindcss)
+- 🧠 Actualmente estoy aprendiendo!
 
-  <br/>
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
-### Contáctame
+
+***
+### 🔗 Mis Proyectos
+- <a href="https://leo79jp.github.io/EL-Clasico-Lemon-Pie/">EL Clasico Lemon Pie</a>
+<br/>
+> En este proyecto aprendi el maquetado semantico y a linkear enlases. 
+
+- <a href="https://leo79jp.github.io/Curriculum-Vitae-de-Bruce-Wayne/">Curriculum de Bruce Wayne</a>
+<br/>
+> En este proyecto aprendi a trabajar con los diferentes tipos de listas, tambien a ultilizar los "iframe" y agregar iconos en la seccion Footer.
+
+***
+### 🔗 Contáctame
 <a href="https://www.linkedin.com/in/leo-parodi-237784313/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Leo%20Parodi-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:leojparodi@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-leojparodi@gmail.com-blue?style=flat-square&logo=gmail"></a> 
 

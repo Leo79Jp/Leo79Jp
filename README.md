@@ -56,6 +56,15 @@ En este proyecto estuvo muy bueno trabajarlo porque visualmente es queda genial,
 
 En este proyecto trabajamos con GRID, me resulto un poco dificil entender como armar la grilla y que a la vez sea responsivo.
 
+- <a href="https://leo79jp.github.io/Portfolio/">🔗 Portfolio</a>
+
+En este proyecto trabajamos con Bootstrap, realizamos un portfolio de algunos de los proyectos que hicimos en clase y que se encuentran en Github.  
+
+- <a href="https://leo79jp.github.io/Practica-Tailwind/">🔗 Tailwind</a>
+
+En este proyecto practicamos con Tailwind, reemplazamos el css existente por clases ya definidas por ellos. 
+
+
 
 ### 🔗 Contáctame
 <a href="https://www.linkedin.com/in/leo-parodi/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Leo%20Parodi-blue?style=flat-square&logo=linkedin"></a>

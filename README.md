@@ -21,9 +21,10 @@
 ![mysql](https://img.shields.io/badge/-mysql-333333?style=flat&logo=mysql)
 ![bootstrap](https://img.shields.io/badge/-bootstrap-333333?style=flat&logo=bootstrap)
 ![tailwindcss](https://img.shields.io/badge/-tailwindcss-333333?style=flat&logo=tailwindcss)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 - 🧠 Actualmente estoy aprendiendo!
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
 
 ### 🔎 Mis Proyectos

@@ -4,11 +4,11 @@
 ### 🚀 Acerca de mí
 
 - Tengo 45 años y soy de Zárate, Provincia de Buenos Aires, Argentina.
-- Soy estudiante de Diplomatura en desarrollo Frontend en la Universidad Nacional tres de Febrero.
+- Soy estudiante de Diplomatura en desarrollo BackEnd en la Universidad Nacional tres de Febrero.
 - Disfruto todo lo referido a la programacion, me gusta mucho lo que es codigo y bases de datos.
 - Estoy muy contento de haber comenzado este curso, me motiva a seguir aprendiendo.
 - Los invito a seguir mi progreso y **contactarme!** si les gusta lo que hago!
-
+#
 ### 🔧 Tecnologías
 
 - 💪 Estas son las tecnologias que manejo!
@@ -20,14 +20,21 @@
 ![php](https://img.shields.io/badge/-php-333333?style=flat&logo=php)
 ![mysql](https://img.shields.io/badge/-mysql-333333?style=flat&logo=mysql)
 ![bootstrap](https://img.shields.io/badge/-bootstrap-333333?style=flat&logo=bootstrap)
-![tailwindcss](https://img.shields.io/badge/-tailwindcss-333333?style=flat&logo=tailwindcss)
+![tailwindcss](https://img.shields.io/badge/-tailwind-333333?style=flat&logo=tailwindcss)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-- 🧠 Actualmente estoy aprendiendo!
-
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
 
-### 🔎 Mis Proyectos
+#
+### 🤓 Mis Diplomaturas
+🎓  Diplomatura en desarrollo Frontend. 🎉
+
+🎓  Actualmente estoy cursando Diplomatura en desarrollo Backend. 🧠
+
+#
+
+
+### 🔎 Mis Proyectos en Frontend
 
 - <a href="https://leo79jp.github.io/EL-Clasico-Lemon-Pie/">🔗 EL Clasico Lemon Pie</a>
 

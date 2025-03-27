@@ -33,8 +33,7 @@
 
 #
 
-
-### 🔎 Mis Proyectos en Frontend
+### 🔎 Algunos de mis Proyectos en Frontend
 
 - <a href="https://leo79jp.github.io/EL-Clasico-Lemon-Pie/">🔗 EL Clasico Lemon Pie</a>
 

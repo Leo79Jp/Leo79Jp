@@ -3,7 +3,7 @@
 
 ### 🚀 Acerca de mí
 
-- Tengo 45 años y soy de Zárate, Provincia de Buenos Aires, Argentina.
+- Tengo 46 años y soy de Zárate, Provincia de Buenos Aires, Argentina.
 - Soy estudiante de Diplomatura en desarrollo BackEnd en la Universidad Nacional tres de Febrero.
 - Disfruto todo lo referido a la programacion, me gusta mucho lo que es codigo y bases de datos.
 - Estoy muy contento de haber comenzado este curso, me motiva a seguir aprendiendo.
@@ -23,7 +23,10 @@
 ![tailwindcss](https://img.shields.io/badge/-tailwind-333333?style=flat&logo=tailwindcss)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-
+![express](https://img.shields.io/badge/-express-333333?style=flat&logo=express)
+![mongodb](https://img.shields.io/badge/-mongodb-333333?style=flat&logo=mongodb)
+![node](https://img.shields.io/badge/-node-333333?style=flat&logo=node.js)
+![npm](https://img.shields.io/badge/-npm-333333?style=flat&logo=npm)
 
 #
 ### 🤓 Mis Diplomaturas
@@ -80,3 +83,4 @@ En este proyecto practicamos con Tailwind, reemplazamos el css existente por cla
 ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=Leo79Jp&show_icons=true)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Leo79Jp&label=Profile%20views&color=0e75b6&style=flat" alt="Leo79Jp" /> </p>
+

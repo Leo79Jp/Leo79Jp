@@ -61,18 +61,19 @@
 
 <br />
 
-### 📊 Estadísticas de GitHub
+
+### 📊 Actividad y Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-anuraghazras-projects.vercel.app/api?username=Leo79Jp&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de Leo" />
-  
-  <br/>
-
-  <img src="https://github-readme-stats-git-masterrstaa-anuraghazras-projects.vercel.app/api/top-langs/?username=Leo79Jp&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Leo79Jp&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de Leo" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leo79Jp&theme=tokyonight" alt="Racha de contribuciones" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Leo79Jp&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
 </p>
 
 <p align="left"> 

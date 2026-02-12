@@ -1,86 +1,64 @@
-<h1>Hola! Me llamo Leo Parodi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
-<!-- <h2>Soy Estudiante de Diplomatura en Desarrollo Frontend</h2> -->
+# <h1>Hola! Me llamo Leo Parodi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 
-### 🚀 Acerca de mí
+### 💻 Full Stack Developer | Especialista en Backend & Bases de Datos
 
-- Tengo 46 años y soy de Zárate, Provincia de Buenos Aires, Argentina.
-- Soy estudiante de Diplomatura en desarrollo BackEnd en la Universidad Nacional tres de Febrero.
-- Disfruto todo lo referido a la programacion, me gusta mucho lo que es codigo y bases de datos.
-- Estoy muy contento de haber comenzado este curso, me motiva a seguir aprendiendo.
-- Los invito a seguir mi progreso y **contactarme!** si les gusta lo que hago!
-#
-### 🔧 Tecnologías
+¡Hola! Soy de Zárate, Buenos Aires. Soy un apasionado de la arquitectura de software y la eficiencia en el manejo de datos. Cuento con formación integral en desarrollo **Frontend** y **Backend**, lo que me permite tener una visión global al construir soluciones digitales.
 
-- 💪 Estas son las tecnologias que manejo!
+- 🌍 Ubicación: Zárate, Provincia de Buenos Aires, Argentina.
+- 🎓 Diplomado en Desarrollo Frontend & Backend (UNTREF).
+- 🚀 Actualmente enfocado en perfeccionar arquitecturas escalables y optimización de consultas.
+- 💡 Disfruto transformar lógica compleja en código limpio y funcional.
 
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
-![github](https://img.shields.io/badge/-Github-333333?style=flat&logo=github)
-![php](https://img.shields.io/badge/-php-333333?style=flat&logo=php)
-![mysql](https://img.shields.io/badge/-mysql-333333?style=flat&logo=mysql)
-![bootstrap](https://img.shields.io/badge/-bootstrap-333333?style=flat&logo=bootstrap)
-![tailwindcss](https://img.shields.io/badge/-tailwind-333333?style=flat&logo=tailwindcss)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![express](https://img.shields.io/badge/-express-333333?style=flat&logo=express)
-![mongodb](https://img.shields.io/badge/-mongodb-333333?style=flat&logo=mongodb)
-![node](https://img.shields.io/badge/-node-333333?style=flat&logo=node.js)
-![npm](https://img.shields.io/badge/-npm-333333?style=flat&logo=npm)
+---
 
-#
-### 🤓 Mis Diplomaturas
-🎓  Diplomatura en desarrollo Frontend. 🎉
+### 🔧 Stack Tecnológico
 
-🎓  Actualmente estoy cursando Diplomatura en desarrollo Backend. 🧠
+#### **Backend & Data (Mi Especialidad)**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-#
+#### **Frontend**
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
 
-### 🔎 Algunos de mis Proyectos en Frontend
+#### **Herramientas**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white)
+![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white)
 
-- <a href="https://leo79jp.github.io/EL-Clasico-Lemon-Pie/">🔗 EL Clasico Lemon Pie</a>
+---
 
-En este proyecto aprendi a a trabajar con FIGMA, el maquetado semantico y a linkear enlases
+### 🎓 Formación Profesional
+* ✅ **Diplomatura en Desarrollo Backend** - Universidad Nacional de Tres de Febrero.
+* ✅ **Diplomatura en Desarrollo Frontend** - Universidad Nacional de Tres de Febrero.
 
-- <a href="https://leo79jp.github.io/Curriculum-Vitae-de-Bruce-Wayne/">🔗 Curriculum de Bruce Wayne</a>
+---
 
-En este proyecto aprendi a trabajar con los diferentes tipos de listas, tambien a ultilizar los "iframe" y agregar iconos en la seccion Footer.
+### 🔎 Proyectos Destacados
 
-- <a href="https://leo79jp.github.io/Super-Heroes---Formularios/">🔗 Cars Super Heroes con Formularios</a>
+| Proyecto | Tipo | Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **Portfolio Full Stack** | Web | React + Node.js | [Ver Proyecto](https://leo79jp.github.io/Portfolio/) |
+| **Game Shop** | Frontend | HTML/CSS/JS | [Ver Proyecto](https://leo79jp.github.io/Game-Shop/) |
+| **InstaFront** | UI/UX | CSS Grid | [Ver Proyecto](https://leo79jp.github.io/InstaFront/) |
 
-En este proyecto aprendi a trabajar con Display Flex, agregar formularios, nav y algo de seudo selectores. Fue un trabajo que me llevo tiempo completarlo y entender como agregar paginas y darles css. 
+---
 
-- <a href="https://leo79jp.github.io/Petshop/">🔗 Petshop</a>
+### 🔗 ¡Conectemos!
+<a href="https://www.linkedin.com/in/leo-parodi/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Leo%20Parodi-0A66C2?style=for-the-badge&logo=linkedin"></a>
+<a href="mailto:leojparodi@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-leojparodi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
 
-En este proyecto comenzamos a trabajar con la parte responsiva de la pagina, Media Query y mucho flex-box.
+<br />
 
-- <a href="https://leo79jp.github.io/Ejercicio-Flex/">🔗 Pizza Front</a>
+### 📊 Actividad en GitHub
+![GitHub Activity](https://github-readme-stats.vercel.app/api?username=Leo79Jp&show_icons=true&theme=radical&count_private=true)
 
-En este proyecto trabajamos con bocetos, flex-box y selectores, estuvo divertido y facil de completar.
-
- - <a href="https://leo79jp.github.io/Game-Shop/">🔗  Game Shop</a>
-
-En este proyecto estuvo muy bueno trabajarlo porque visualmente es queda genial, usamos flex-box, nav responsivo y agregamos el boton de menu Hamburguesa. 
-
-- <a href="https://leo79jp.github.io/InstaFront/">🔗 InstaFront</a>
-
-En este proyecto trabajamos con GRID, me resulto un poco dificil entender como armar la grilla y que a la vez sea responsivo.
-
-- <a href="https://leo79jp.github.io/Portfolio/">🔗 Portfolio</a>
-
-En este proyecto trabajamos con Bootstrap, realizamos un portfolio de algunos de los proyectos que hicimos en clase y que se encuentran en Github.  
-
-- <a href="https://leo79jp.github.io/Practica-Tailwind/">🔗 Tailwind</a>
-
-En este proyecto practicamos con Tailwind, reemplazamos el css existente por clases ya definidas por ellos. 
-
-
-
-### 🔗 Contáctame
-<a href="https://www.linkedin.com/in/leo-parodi/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Leo%20Parodi-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:leojparodi@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-leojparodi@gmail.com-blue?style=flat-square&logo=gmail"></a> 
-
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=Leo79Jp&show_icons=true)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Leo79Jp&label=Profile%20views&color=0e75b6&style=flat" alt="Leo79Jp" /> </p>
-
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Leo79Jp&label=Profile%20views&color=0e75b6&style=flat" alt="Leo79Jp" /> 
+</p>

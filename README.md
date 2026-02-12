@@ -62,8 +62,12 @@
 <br />
 
 ### 📊 Estadísticas de GitHub
-![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leo79Jp&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leo79Jp&layout=compact&theme=tokyonight)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Leo79Jp&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de Leo" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo79Jp&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
+</p>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Leo79Jp&label=Profile%20views&color=0e75b6&style=flat" alt="Leo79Jp" /> 

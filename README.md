@@ -1,6 +1,6 @@
 # <h1>Hola! Me llamo Leo Parodi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 
-### 💻 Full Stack Developer Jr| Node.js • Express • MySQL
+### 💻 Full Stack Developer Jr | Node.js • Express • MySQL
 
 ¡Hola! Soy de Zárate, Buenos Aires. Soy un apasionado de la arquitectura de software y la eficiencia en el manejo de datos. Cuento con formación integral en desarrollo **Frontend** y **Backend**, lo que me permite tener una visión global al construir soluciones digitales.
 
